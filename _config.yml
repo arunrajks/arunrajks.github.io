@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My home page Name / Site Title"
+title                    : "My home page"
 title_separator          : "-"
 name                     : &name "arunraj kondetharayil soman"
 description              : &description "personal description"
