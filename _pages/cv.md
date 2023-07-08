@@ -11,23 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Atmospheric Sciences and Oceanography, Stockholm University, 2023
+* M.Tech. Ocean Engineering, Indian Institute of Technology Madras, 2014
+* B.Tech. Mechanical Engineering, College of Engineering Trivandrum, Kerala University, 2010
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2023: Doctoral Researcher
+  * Meteorologiska institutionen - Stockholms Universitet
+  <!-- * Duties included: Tagging issues
+  * Supervisor: Professor Git -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2015- 2019: Project Scientist
+  * National Institute of Ocean Technology, Chennai, India
+  <!-- * Duties included: Merging pull requests
+  * Supervisor: Professor Hub -->
+* 2014-2015: Project Associate
+  * Indian Institute of Technology Madras, Chennai, India
+  <!-- * Duties included: Merging pull requests
+  * Supervisor: Professor Hub -->
+
+
+    
+
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
