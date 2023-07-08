@@ -20,17 +20,26 @@ Work experience
 ======
 * 2019-2023: Doctoral Researcher
   * Meteorologiska institutionen - Stockholms Universitet
-  <!-- * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+
+
+<!-- * Duties included: Tagging issues
+* Supervisor: Professor Git -->
 
 * 2015- 2019: Project Scientist
   * National Institute of Ocean Technology, Chennai, India
-  <!-- * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  
+  
+
+<!-- * Duties included: Merging pull requests
+* Supervisor: Professor Hub -->
+
 * 2014-2015: Project Associate
   * Indian Institute of Technology Madras, Chennai, India
-  <!-- * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  
+  
+
+<!-- * Duties included: Merging pull requests
+* Supervisor: Professor Hub  -->
 
 
     
