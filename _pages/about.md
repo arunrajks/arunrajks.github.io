@@ -15,7 +15,7 @@ redirect_from:
 <br/>
 Hello! My name is Arunraj,
 
-I am a Data Scientist with over 8 years of expertise in analyzing and interpreting complex climate datasets. I hold a doctoral degree in Atmospheric Science and Oceanography from the Department of Meteorology at Stockholm University, along with a master's degree from the Indian Institute of Technology Madras. My research has yielded multiple high-quality, peer-reviewed journal publications, and I have collaborated with international teams of scientists. As a climate data scientist, I am passionately committed to utilizing data-driven approaches to address real-world challenges. 
+I am a Data Scientist with over 8 years of expertise in analyzing and interpreting complex climate datasets. I hold a doctoral degree in Atmospheric Science and Oceanography from the Department of Meteorology at Stockholm University, along with a master's degree in Ocean Engineering from the Indian Institute of Technology Madras. My research has yielded multiple high-quality, peer-reviewed journal publications, and I have collaborated with international teams of scientists. As a climate data scientist, I am passionate about using data-driven approaches to address real-world challenges.
 
 <!-- A data-driven personal website
 ======
