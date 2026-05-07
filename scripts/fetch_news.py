@@ -16,7 +16,7 @@ def fetch_and_parse():
     
     articles = []
     
-    for item in root.findall('./channel/item')[:15]:
+    for item in root.findall('./channel/item')[:20]:
         title = item.find('title').text if item.find('title') is not None else ''
         pubDate = item.find('pubDate').text if item.find('pubDate') is not None else ''
         google_link = item.find('link').text if item.find('link') is not None else ''
