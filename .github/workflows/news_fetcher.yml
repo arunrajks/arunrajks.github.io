@@ -1,0 +1,34 @@
+name: Fetch GNews Daily
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch_and_publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 googlenewsdecoder
+
+      - name: Fetch News JSON
+        run: python scripts/fetch_news.py
+
+      - name: Deploy to data-feed branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: data-feed
+          publish_dir: ./output
