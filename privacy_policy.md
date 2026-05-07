@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Cardamom Price Analytics
 
 Effective Date: January 19, 2026
