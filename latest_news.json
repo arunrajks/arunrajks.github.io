@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Price surge drives record cardamom exports - The Rising Nepal",
-      "url": "https://risingnepaldaily.com/news/80009",
-      "image": "https://risingnepaldaily.com/storage/media/101837/Untitled-1.jpg",
-      "description": "Earnings from the export of large cardamom, one of the country\u2019s major export commodities, have reached a historic high so far, thanks to a significant rise in its price.  According to statistics f",
-      "publishedAt": "Sun, 10 May 2026 03:07:23 GMT",
-      "source": {
-        "name": "The Rising Nepal"
-      }
-    },
-    {
       "title": "Cardamom price in Kerala hits a seven-year high of over \u20b96,000 per kg - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/cardamom-price-in-kerala-hits-a-seven-year-high-of-over-6000-per-kg/article70912761.ece",
       "image": "https://th-i.thgim.com/public/incoming/kigac0/article70912787.ece/alternates/LANDSCAPE_1200/80759_27_4_2026_18_44_45_1_GREENCARDAMMSAN.JPEG",
@@ -31,6 +21,16 @@
       }
     },
     {
+      "title": "Price surge drives record cardamom exports - The Rising Nepal",
+      "url": "https://risingnepaldaily.com/news/80009",
+      "image": "https://risingnepaldaily.com/storage/media/101837/Untitled-1.jpg",
+      "description": "Earnings from the export of large cardamom, one of the country\u2019s major export commodities, have reached a historic high so far, thanks to a significant rise in its price.  According to statistics f",
+      "publishedAt": "Sun, 10 May 2026 03:07:23 GMT",
+      "source": {
+        "name": "The Rising Nepal"
+      }
+    },
+    {
       "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - Indian Council of Agricultural Research",
       "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
       "image": null,
@@ -41,13 +41,13 @@
       }
     },
     {
-      "title": "ICAR\u2013CTCRI and Spices Board Join Hands to Develop Smart e-Crop-Based Cardamom Growth Model - PIB",
+      "title": "ICAR\u2013CTCRI and Spices Board Join Hands to Develop Smart e-Crop-Based Cardamom Growth Model - Press Information Bureau",
       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2254501",
       "image": "https:/pib.gov.in/images/indian-emblem.png",
       "description": "The ICAR\u2013Central Tuber Crops Research Institute has entered into a collaborative research partnershi",
       "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
       "source": {
-        "name": "PIB"
+        "name": "Press Information Bureau"
       }
     }
   ]
