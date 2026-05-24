@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Premium spice markets remain buoyant as Cardamom prices stay firm - Agro Spectrum India",
-      "url": "https://agrospectrumindia.com/2026/05/20/premium-spice-markets-remain-buoyant-as-cardamom-prices-stay-firm.html",
-      "image": null,
-      "description": null,
-      "publishedAt": "Wed, 20 May 2026 05:50:47 GMT",
-      "source": {
-        "name": "Agro Spectrum India"
-      }
-    },
-    {
       "title": "Cardamom price in Kerala hits a seven-year high of over \u20b96,000 per kg - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/cardamom-price-in-kerala-hits-a-seven-year-high-of-over-6000-per-kg/article70912761.ece",
       "image": "https://th-i.thgim.com/public/incoming/kigac0/article70912787.ece/alternates/LANDSCAPE_1200/80759_27_4_2026_18_44_45_1_GREENCARDAMMSAN.JPEG",
@@ -18,6 +8,16 @@
       "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
       "source": {
         "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Premium spice markets remain buoyant as Cardamom prices stay firm - Agro Spectrum India",
+      "url": "https://agrospectrumindia.com/2026/05/20/premium-spice-markets-remain-buoyant-as-cardamom-prices-stay-firm.html",
+      "image": null,
+      "description": null,
+      "publishedAt": "Wed, 20 May 2026 05:50:47 GMT",
+      "source": {
+        "name": "Agro Spectrum India"
       }
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - ICAR",
-      "url": "https://www.icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
+      "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
       "image": null,
       "description": null,
-      "publishedAt": "Mon, 18 May 2026 12:24:57 GMT",
+      "publishedAt": "Sat, 23 May 2026 01:43:08 GMT",
       "source": {
         "name": "ICAR"
       }
