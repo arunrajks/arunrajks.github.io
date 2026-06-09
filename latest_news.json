@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "CARDAMOM Futures Price - Live CARDAMOM Price Chart - HDFC Sky",
+      "url": "https://hdfcsky.com/commodity-trading/mcx/cardamom-futures",
+      "image": null,
+      "description": null,
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "source": {
+        "name": "HDFC Sky"
+      }
+    },
+    {
+      "title": "Premium spice markets remain buoyant as Cardamom prices stay firm - Agro Spectrum India",
+      "url": "https://agrospectrumindia.com/2026/05/20/premium-spice-markets-remain-buoyant-as-cardamom-prices-stay-firm.html",
+      "image": "https://agrospectrumindia.com/wp-content/uploads/2026/05/OIP-14.jpg",
+      "description": "Kumily auctions record high-value trades while eastern India\u2019s large cardamom markets sustain stable pricing India\u2019s cardamom markets continued to display resilience on Wednesday, with small cardamom auction prices maintaining strong levels at Kerala\u2019s key trading hub of Kumily, even as large cardamom markets across eastern India reflected sustained price stability driven by active trade sentiment [\u2026]",
+      "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
+      "source": {
+        "name": "Agro Spectrum India"
+      }
+    },
+    {
       "title": "Indian cardamom exports regain aroma amid West Asia tensions - BusinessLine",
       "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-cardamom-exports-regain-aroma-amid-west-asia-tensions/article70996968.ece",
       "image": "https://bl-i.thgim.com/public/incoming/pg1eq0/article70997312.ece/alternates/LANDSCAPE_1200/Indian-cardamomGE4FLQ9OE.5.jpg.jpg",
@@ -8,26 +28,6 @@
       "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
       "source": {
         "name": "BusinessLine"
-      }
-    },
-    {
-      "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - Indian Council of Agricultural Research",
-      "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
-      "image": null,
-      "description": null,
-      "publishedAt": "Mon, 08 Jun 2026 11:50:31 GMT",
-      "source": {
-        "name": "Indian Council of Agricultural Research"
-      }
-    },
-    {
-      "title": "Price surge drives record cardamom exports - The Rising Nepal",
-      "url": "https://risingnepaldaily.com/news/80009",
-      "image": "https://risingnepaldaily.com/storage/media/101837/Untitled-1.jpg",
-      "description": "Earnings from the export of large cardamom, one of the country\u2019s major export commodities, have reached a historic high so far, thanks to a significant rise in its price.  According to statistics f",
-      "publishedAt": "Sun, 10 May 2026 07:00:00 GMT",
-      "source": {
-        "name": "The Rising Nepal"
       }
     }
   ]
