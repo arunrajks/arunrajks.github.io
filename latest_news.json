@@ -1,11 +1,21 @@
 {
   "articles": [
     {
+      "title": "Spices Board launches online pooling system for cardamom - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/spices-board-launches-online-pooling-system-for-cardamom/article71118339.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "description": "Spices Board launches an online pooling system for cardamom, requiring grower registration from June 15 to September 30, 2026.",
+      "publishedAt": "Thu, 18 Jun 2026 14:21:13 GMT",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
       "title": "CARDAMOM Futures Price - Live CARDAMOM Price Chart - HDFC Sky",
       "url": "https://hdfcsky.com/commodity-trading/mcx/cardamom-futures",
       "image": "https://hdfcsky.com/new-assets/default-banner.webp",
       "description": "Check live CARDAMOM future price on MCX with real-time price chart, lot size, OI & volume data. Track CARDAMOM futures & trade commodities on HDFC SKY.",
-      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "publishedAt": "Wed, 03 Jun 2026 11:55:36 GMT",
       "source": {
         "name": "HDFC Sky"
       }
@@ -13,21 +23,11 @@
     {
       "title": "Premium spice markets remain buoyant as Cardamom prices stay firm - Agro Spectrum India",
       "url": "https://agrospectrumindia.com/2026/05/20/premium-spice-markets-remain-buoyant-as-cardamom-prices-stay-firm.html",
-      "image": null,
-      "description": null,
+      "image": "https://agrospectrumindia.com/wp-content/uploads/2026/05/OIP-14.jpg",
+      "description": "Kumily auctions record high-value trades while eastern India\u2019s large cardamom markets sustain stable pricing India\u2019s cardamom markets continued to display resilience on Wednesday, with small cardamom auction prices maintaining strong levels at Kerala\u2019s key trading hub of Kumily, even as large cardamom markets across eastern India reflected sustained price stability driven by active trade sentiment [\u2026]",
       "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
       "source": {
         "name": "Agro Spectrum India"
-      }
-    },
-    {
-      "title": "Indian cardamom exports regain aroma amid West Asia tensions - BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-cardamom-exports-regain-aroma-amid-west-asia-tensions/article70996968.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/pg1eq0/article70997312.ece/alternates/LANDSCAPE_1200/Indian-cardamomGE4FLQ9OE.5.jpg.jpg",
-      "description": "Indian cardamom exports surge as Guatemala faces crop failure, driving demand despite West Asia tensions and rising prices.",
-      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
-      "source": {
-        "name": "BusinessLine"
       }
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
       "image": null,
       "description": null,
-      "publishedAt": "Mon, 15 Jun 2026 06:14:01 GMT",
+      "publishedAt": "Thu, 18 Jun 2026 05:50:17 GMT",
       "source": {
         "name": "Indian Council Of Agricultural Research"
       }
