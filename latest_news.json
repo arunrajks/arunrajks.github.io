@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Nepal earns record Rs12 billion from large cardamom exports - The Kathmandu Post",
-      "url": "https://kathmandupost.com/money/2026/06/23/nepal-earns-record-rs12-billion-from-large-cardamom-exports",
-      "image": "https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1782176777.jpg",
-      "description": "Export earnings rose despite modest production growth. Traders urge diversification beyond India and stronger direct access to Middle Eastern and South Asian markets.",
-      "publishedAt": "Tue, 23 Jun 2026 01:09:13 GMT",
-      "source": {
-        "name": "The Kathmandu Post"
-      }
-    },
-    {
       "title": "Spices Board launches online pooling system for cardamom - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/spices-board-launches-online-pooling-system-for-cardamom/article71118339.ece",
       "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -18,6 +8,16 @@
       "publishedAt": "Thu, 18 Jun 2026 14:21:13 GMT",
       "source": {
         "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Nepal earns record Rs12 billion from large cardamom exports - The Kathmandu Post",
+      "url": "https://kathmandupost.com/money/2026/06/23/nepal-earns-record-rs12-billion-from-large-cardamom-exports",
+      "image": "https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/thumb4-1782176777.jpg",
+      "description": "Export earnings rose despite modest production growth. Traders urge diversification beyond India and stronger direct access to Middle Eastern and South Asian markets.",
+      "publishedAt": "Tue, 23 Jun 2026 01:09:13 GMT",
+      "source": {
+        "name": "The Kathmandu Post"
       }
     },
     {
