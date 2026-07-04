@@ -2,10 +2,20 @@
   "articles": [
     {
       "title": "Cardamom prices surge amid production concerns - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cardamom-prices-surge-amid-production-concerns/article71174638.ece/amp/",
-      "image": "https://th-i.thgim.com/public/incoming/27pj5y/article71174991.ece/alternates/FREE_1200/80759_2_7_2026_18_42_52_1_GREENCARDAMMSAN.JPEG",
+      "url": "https://www.thehindu.com/news/national/kerala/cardamom-prices-surge-amid-production-concerns/article71174638.ece",
+      "image": "https://th-i.thgim.com/public/incoming/27pj5y/article71174991.ece/alternates/LANDSCAPE_1200/80759_2_7_2026_18_42_52_1_GREENCARDAMMSAN.JPEG",
       "description": "Cardamom prices soar over \u20b93,000 per kg amid production concerns and increased demand following easing geopolitical tensions.",
       "publishedAt": "Thu, 02 Jul 2026 14:31:40 GMT",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Spices Board launches online pooling system for cardamom - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/spices-board-launches-online-pooling-system-for-cardamom/article71118339.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "description": "Spices Board launches an online pooling system for cardamom, requiring grower registration from June 15 to September 30, 2026.",
+      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
       "source": {
         "name": "The Hindu"
       }
@@ -21,13 +31,13 @@
       }
     },
     {
-      "title": "Spices Board launches online pooling system for cardamom - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/spices-board-launches-online-pooling-system-for-cardamom/article71118339.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "description": "Spices Board launches an online pooling system for cardamom, requiring grower registration from June 15 to September 30, 2026.",
-      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - Indian Council Of Agricultural Research",
+      "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
+      "image": null,
+      "description": null,
+      "publishedAt": "Fri, 03 Jul 2026 11:47:53 GMT",
       "source": {
-        "name": "The Hindu"
+        "name": "Indian Council Of Agricultural Research"
       }
     }
   ]
