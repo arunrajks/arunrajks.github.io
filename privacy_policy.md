@@ -11,12 +11,13 @@ Effective Date: January 19, 2026
 Cardamom Price Analytics ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile application.
 
 ### 1. Information Collection
-We collect the following information only when you voluntarily provide it through the "Register & Sync to Cloud" feature:
+We collect the following information when you voluntarily create a profile or participate in the marketplace feature:
 *   Name
 *   Email Address
 *   Phone Number
 *   Farm/Business Name
 *   Location
+*   Images (uploaded for marketplace listings)
 
 ### 2. How We Use Information
 We use your information to:
@@ -25,8 +26,8 @@ We use your information to:
 *   Communicate with you regarding app updates or critical market alerts.
 
 ### 3. Data Storage and Security
-*   **Storage**: Your profile data is currently sent via secure email to our development team for registration.
-*   **Security**: We take reasonable measures to protect your data from unauthorized access. Data sent via the app's sync feature is handled through the device's default secure mail protocols.
+*   **Storage**: Your profile information and marketplace listings are securely stored in cloud databases (Google Cloud Firestore) to provide seamless access across devices and to facilitate user-to-user marketplace interactions.
+*   **Security**: We take reasonable measures to protect your data from unauthorized access. Data sent via the app is securely transmitted and stored using industry-standard encryption.
 
 ### 4. Third-Party Sharing
 We do not sell, trade, or share your personal information with third parties for marketing purposes.
