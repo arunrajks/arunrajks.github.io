@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "El Ni\u00f1o effect: Spices Board confirms dip in cardamom production in Idukki - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/el-nino-effect-spices-board-confirms-dip-in-cardamom-production-in-idukki/article71221605.ece/amp/",
+      "image": "https://th-i.thgim.com/public/incoming/9qmhlh/article71221681.ece/alternates/FREE_1200/80759_14_7_2026_18_20_20_1_CARDAMOMNEW.JPEG",
+      "description": "El Ni\u00f1o causes significant drop in cardamom production in Idukki due to over 55% rainfall deficiency, warns Spices Board.",
+      "publishedAt": "Tue, 14 Jul 2026 14:04:05 GMT",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
       "title": "Spice market update: lower cardamom production - Mundus Agri",
       "url": "https://www.mundus-agri.eu/news/spice-market-update-cardamom-production.n37573.html",
       "image": "https://www.mundus-agri.eu/images/news/cache/35726_square_medium.jpeg",
@@ -78,6 +88,16 @@
       "publishedAt": "Fri, 10 Jul 2026 11:55:25 GMT",
       "source": {
         "name": "Indian Council Of Agricultural Research"
+      }
+    },
+    {
+      "title": "Cardamom Cultivation Boosts Farmer Income in Lamjung - Ratopati",
+      "url": "https://english.ratopati.com/story/70199/cardamom-is-changing-the-daily-lives-of-lamjung-farmers",
+      "image": "https://npcdn.ratopati.com/media/news/7Eg7yk0UN0.jpg",
+      "description": "Lamjung. Cardamom, known as 'black gold,' has been contributing significantly to improving the living standards of farmers in Lamjung. Cultivation, which began expanding in the district in 2041 BS, has now been established as a major cash crop.The hilly terrain, cool and humid environment, and shaded land along streams and gullies are considered suitable for cardamom cultivation. This is why its cultivation has been expanding in the district. As young people returning from foreign employment are increasingly attracted to this cultivation, Lamjung is becoming an important area for cardamom production.Ajay Tamang of Chinhola, Marsyangdi Rural Municipality-7, returned from Dubai and...",
+      "publishedAt": "Tue, 14 Jul 2026 23:55:14 GMT",
+      "source": {
+        "name": "Ratopati"
       }
     }
   ]
