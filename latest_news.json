@@ -1,13 +1,13 @@
 {
   "articles": [
     {
-      "title": "Cardamom Market Size, Share | CAGR of 6.0% - Market.us",
+      "title": "Cardamom Market Size, Share | CAGR of 6.0% - market.us",
       "url": "https://market.us/report/cardamom-market/",
       "image": null,
       "description": null,
       "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": {
-        "name": "Market.us"
+        "name": "market.us"
       }
     },
     {
@@ -31,21 +31,21 @@
       }
     },
     {
-      "title": "Cardamom prices surge amid production concerns - The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cardamom-prices-surge-amid-production-concerns/article71174638.ece",
-      "image": "https://th-i.thgim.com/public/incoming/27pj5y/article71174991.ece/alternates/LANDSCAPE_1200/80759_2_7_2026_18_42_52_1_GREENCARDAMMSAN.JPEG",
-      "description": "Cardamom prices soar over \u20b93,000 per kg amid production concerns and increased demand following easing geopolitical tensions.",
-      "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
       "title": "El Ni\u00f1o effect: Spices Board confirms dip in cardamom production in Idukki - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/el-nino-effect-spices-board-confirms-dip-in-cardamom-production-in-idukki/article71221605.ece",
       "image": "https://th-i.thgim.com/public/incoming/9qmhlh/article71221681.ece/alternates/LANDSCAPE_1200/80759_14_7_2026_18_20_20_1_CARDAMOMNEW.JPEG",
       "description": "El Ni\u00f1o causes significant drop in cardamom production in Idukki due to over 55% rainfall deficiency, warns Spices Board.",
       "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Cardamom prices surge amid production concerns - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/cardamom-prices-surge-amid-production-concerns/article71174638.ece",
+      "image": "https://th-i.thgim.com/public/incoming/27pj5y/article71174991.ece/alternates/LANDSCAPE_1200/80759_2_7_2026_18_42_52_1_GREENCARDAMMSAN.JPEG",
+      "description": "Cardamom prices soar over \u20b93,000 per kg amid production concerns and increased demand following easing geopolitical tensions.",
+      "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": {
         "name": "The Hindu"
       }
@@ -68,6 +68,16 @@
       "publishedAt": "Thu, 30 Jul 2026 11:27:00 GMT",
       "source": {
         "name": "Indian Council Of Agricultural Research"
+      }
+    },
+    {
+      "title": "State mission to revive large cardamom cultivation gains momentum - Sikkimexpress",
+      "url": "https://www.sikkimexpress.com/news-details/state-mission-to-revive-large-cardamom-cultivation-gains-momentum",
+      "image": null,
+      "description": null,
+      "publishedAt": "Fri, 31 Jul 2026 17:07:31 GMT",
+      "source": {
+        "name": "Sikkimexpress"
       }
     },
     {
@@ -98,6 +108,16 @@
       "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
       "source": {
         "name": "Ratopati"
+      }
+    },
+    {
+      "title": "India\u2019s Whole Cardamom Exports Double In Volume, Triple In Value Since FY24 - BW Businessworld",
+      "url": "https://www.businessworld.in/article/india-s-whole-cardamom-exports-double-in-volume-triple-in-value-since-fy24-615316",
+      "image": null,
+      "description": null,
+      "publishedAt": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "source": {
+        "name": "BW Businessworld"
       }
     }
   ]
