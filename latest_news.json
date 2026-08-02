@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "India''s Cardamom Exports Triple, Reach $436M by 2025-26 - Rediff MoneyWiz",
-      "url": "https://money.rediff.com/news/market/india-s-cardamom-exports-triple-reach-436m-by-2025-26/50720520260717",
-      "image": "https://im.rediff.com/money/2018/nov/15export.jpg?fr=money",
-      "description": "India''s whole cardamom exports surged to $436.8 million in 2025-26, tripling in two years. Driven by global demand, quality, and purity, major destinations include UAE & Saudi Arabia.",
-      "publishedAt": "Fri, 17 Jul 2026 09:58:24 GMT",
-      "source": {
-        "name": "Rediff MoneyWiz"
-      }
-    },
-    {
       "title": "Standards for Large Cardamom, Coriander and Vanilla finalised by India-Hosted Codex Committee adopted by Codex Commission - Business Standard",
       "url": "https://www.business-standard.com/markets/capital-market-news/standards-for-large-cardamom-coriander-and-vanilla-finalised-by-india-hosted-codex-committee-adopted-by-codex-commission-126071700476_1.html",
       "image": null,
@@ -61,13 +51,23 @@
       }
     },
     {
-      "title": "India's whole cardamom exports more than triple to $436.8 million in FY26 - cnbctv18.com",
+      "title": "India's whole cardamom exports more than triple to $436.8 million in FY26 - CNBC TV18",
       "url": "https://www.cnbctv18.com/business/india-whole-cardamom-exports-triple-fy26-global-demand-19948214.htm",
       "image": "https://images.cnbctv18.com/uploads/2026/07/cardamom-2026-07-42320f73dc9047291ac15d440c86cfee.jpg?im=FitAndFill,width=1200,height=675",
       "description": "An official said the sharp rise in exports reflects growing global demand for premium spices, improved quality production, and an increasing preference among overseas buyers for Indian cardamom because of its aroma, quality, and purity.",
       "publishedAt": "Fri, 17 Jul 2026 07:00:00 GMT",
       "source": {
-        "name": "cnbctv18.com"
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Nepal: Cardamom export earnings hit record high in FY'26 on stronger prices - BigMint",
+      "url": "https://www.bigmint.co/insights/detail/nepal-cardamom-export-earnings-hit-record-high-in-fy26-on-stronger-prices-774236",
+      "image": null,
+      "description": null,
+      "publishedAt": "Tue, 28 Jul 2026 08:35:00 GMT",
+      "source": {
+        "name": "BigMint"
       }
     },
     {
