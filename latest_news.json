@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "India: Cardamom exports slow as elevated prices curb buying, lower crop outlook supports market - BigMint",
+      "url": "https://www.bigmint.co/insights/detail/india-cardamom-exports-slow-as-elevated-prices-curb-buying-lower-crop-outlook-supports-market-776715",
+      "image": null,
+      "description": null,
+      "publishedAt": "Tue, 04 Aug 2026 07:35:24 GMT",
+      "source": {
+        "name": "BigMint"
+      }
+    },
+    {
       "title": "Cardamom exports lose aroma as prices surge - BusinessLine",
       "url": "https://www.thehindubusinessline.com/economy/agri-business/cardamom-exports-lose-aroma-as-prices-surge/article71300027.ece",
       "image": "https://bl-i.thgim.com/public/incoming/hdvuoo/article71300102.ece/alternates/LANDSCAPE_1200/Indian-cardamomGAAG0J849.4.jpg.jpg",
@@ -11,13 +21,23 @@
       }
     },
     {
-      "title": "Standards for Large Cardamom, Coriander and Vanilla finalised by India-Hosted Codex Committee adopted by Codex Commission - Business Standard",
+      "title": "Cardamom export thru Kakarbhitta rises sharply in last FY - The Rising Nepal",
+      "url": "https://risingnepaldaily.com/news/84400",
+      "image": "https://risingnepaldaily.com/storage/media/107157/cardamom.jfif",
+      "description": "According to the Customs Office, cardamom export grew by 64.6 per cent in the last fiscal year compared to the fiscal year 2081/82 BS, when exports stood at Rs 7.67 billion.",
+      "publishedAt": "Sat, 01 Aug 2026 14:14:42 GMT",
+      "source": {
+        "name": "The Rising Nepal"
+      }
+    },
+    {
+      "title": "Standards for Large Cardamom, Coriander and Vanilla finalised by India-Hosted Codex Committee adopted by Codex Commission - business-standard.com",
       "url": "https://www.business-standard.com/markets/capital-market-news/standards-for-large-cardamom-coriander-and-vanilla-finalised-by-india-hosted-codex-committee-adopted-by-codex-commission-126071700476_1.html",
       "image": null,
       "description": null,
       "publishedAt": "Fri, 17 Jul 2026 07:00:00 GMT",
       "source": {
-        "name": "Business Standard"
+        "name": "business-standard.com"
       }
     },
     {
@@ -41,13 +61,13 @@
       }
     },
     {
-      "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - Indian Council Of Agricultural Research",
+      "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - icar.org.in",
       "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
       "image": null,
       "description": null,
       "publishedAt": "Thu, 30 Jul 2026 11:27:00 GMT",
       "source": {
-        "name": "Indian Council Of Agricultural Research"
+        "name": "icar.org.in"
       }
     },
     {
