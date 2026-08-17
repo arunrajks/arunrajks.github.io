@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "New cardamom crop fetches Rs. 95,000 per 40 kg - The Rising Nepal",
+      "url": "https://risingnepaldaily.com/news/85125",
+      "image": "https://risingnepaldaily.com/storage/media/107999/Untitled-1.jpg",
+      "description": "The new crop of large cardamom has started fetching Rs. 95,000 per man (40 kg) in Taplejung. The new crop, which began arriving in the market two to three days ago, is being traded at the rate of Rs. 95,000 per man.",
+      "publishedAt": "Mon, 17 Aug 2026 00:14:14 GMT",
+      "source": {
+        "name": "The Rising Nepal"
+      }
+    },
+    {
       "title": "Cardamom exports lose aroma as prices surge - BusinessLine",
       "url": "https://www.thehindubusinessline.com/economy/agri-business/cardamom-exports-lose-aroma-as-prices-surge/article71300027.ece",
       "image": "https://bl-i.thgim.com/public/incoming/hdvuoo/article71300102.ece/alternates/LANDSCAPE_1200/Indian-cardamomGAAG0J849.4.jpg.jpg",
@@ -68,16 +78,6 @@
       "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
       "source": {
         "name": "thesikkimchronicle.com"
-      }
-    },
-    {
-      "title": "India: Cardamom prices remain steady as monsoon raises crop uncertainty - BigMint",
-      "url": "https://www.bigmint.co/insights/detail/india-cardamom-prices-remain-steady-as-monsoon-raises-crop-uncertainty-778195",
-      "image": null,
-      "description": null,
-      "publishedAt": "Fri, 07 Aug 2026 12:03:13 GMT",
-      "source": {
-        "name": "BigMint"
       }
     },
     {
