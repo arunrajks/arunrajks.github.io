@@ -1,3 +1,64 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Cardamom markets signal diverging momentum as small cardamom auctions cross Rs 3,600/kg while large cardamom holds firm - AgroSpectrum India",
+      "url": "https://agrospectrumindia.com/news/142/33960/cardamom-markets-signal-diverging-momentum-as-small-cardamom-auctions-cross-rs-3600-kg-while-large-cardamom-holds-firm.html",
+      "image": null,
+      "description": null,
+      "publishedAt": "Fri, 28 Aug 2026 17:03:36 GMT",
+      "source": {
+        "name": "AgroSpectrum India"
+      }
+    },
+    {
+      "title": "Cardamom exports lose aroma as prices surge - BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/cardamom-exports-lose-aroma-as-prices-surge/article71300027.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/hdvuoo/article71300102.ece/alternates/LANDSCAPE_1200/Indian-cardamomGAAG0J849.4.jpg.jpg",
+      "description": "Cardamom exports decline as prices rise, prompting cautious purchasing strategies among importers amid uncertain crop prospects due to monsoon conditions.",
+      "publishedAt": "Sat, 08 Aug 2026 07:00:00 GMT",
+      "source": {
+        "name": "BusinessLine"
+      }
+    },
+    {
+      "title": "Cardamom export thru Kakarbhitta rises sharply in last FY - The Rising Nepal",
+      "url": "https://risingnepaldaily.com/news/84400",
+      "image": "https://risingnepaldaily.com/storage/media/107157/cardamom.jfif",
+      "description": "According to the Customs Office, cardamom export grew by 64.6 per cent in the last fiscal year compared to the fiscal year 2081/82 BS, when exports stood at Rs 7.67 billion.",
+      "publishedAt": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "source": {
+        "name": "The Rising Nepal"
+      }
+    },
+    {
+      "title": "Cardamom export thru Kakarbhitta rises sharply in last FY - NepalNews",
+      "url": "https://english.nepalnews.com/s/business/cardamom-export-thru-kakarbhitta-rises-sharply-in-last-fy/",
+      "image": null,
+      "description": null,
+      "publishedAt": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "source": {
+        "name": "NepalNews"
+      }
+    },
+    {
+      "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - Indian Council Of Agricultural Research",
+      "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
+      "image": null,
+      "description": null,
+      "publishedAt": "Fri, 28 Aug 2026 04:44:46 GMT",
+      "source": {
+        "name": "Indian Council Of Agricultural Research"
+      }
+    },
+    {
+      "title": "Cardamom exports - Nepali Times",
+      "url": "https://nepalitimes.com/cardamom-exports-1",
+      "image": "https://media.nepalitimes.com/cover/cardamom.jpg",
+      "description": "The export of large cardamom rose by 64.65% in the past fiscal year, equivalent to Rs12.64 billion, compared to Rs7.67 billion last year. The\u2026",
+      "publishedAt": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": {
+        "name": "Nepali Times"
+      }
+    }
+  ]
 }
