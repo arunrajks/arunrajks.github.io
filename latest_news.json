@@ -1,3 +1,44 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Rats pull the plug on Rs23 crore cardamom auction in Bodi - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/rats-pull-the-plug-on-rs23-crore-cardamom-auction-in-bodi/articleshow/133847204.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133847202,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "Madurai: Rats chewing through computer and internet cables forced the cancellation of cardamom auctions at the Spices Board\u00e2\u0080\u0099s electronic auction centre in Bodi, disrupting trade estimated at Rs23 crore.",
+      "publishedAt": "Sun, 06 Sep 2026 17:52:00 GMT",
+      "source": {
+        "name": "The Times of India"
+      }
+    },
+    {
+      "title": "Kerala cardamom strengthens its place in global spice trade - Hindusthan Samachar English",
+      "url": "https://english.hindusthansamachar.in/Encyc/2026/9/7/Kerala-cardamom-global-spice-.php",
+      "image": "https://english.hindusthansamachar.in/Encyc/2026/9/7/f538bce43746d7fa5910a72c28f6a20b_450122166_H@@IGHT_0_W@@IDTH_600.jpeg",
+      "description": "Kerala cardamom strengthens its place in global spice trade",
+      "publishedAt": "Mon, 07 Sep 2026 10:02:53 GMT",
+      "source": {
+        "name": "Hindusthan Samachar English"
+      }
+    },
+    {
+      "title": "Oyster Mushroom Cultivation Using Large Cardamom Residue: A Waste to Wealth Innovation by KVK Anjaw - Indian Council Of Agricultural Research",
+      "url": "https://icar.org.in/en/oyster-mushroom-cultivation-using-large-cardamom-residue-waste-wealth-innovation-kvk-anjaw",
+      "image": null,
+      "description": null,
+      "publishedAt": "Tue, 08 Sep 2026 12:03:42 GMT",
+      "source": {
+        "name": "Indian Council Of Agricultural Research"
+      }
+    },
+    {
+      "title": "Wild elephant attack in Keralam\u2019s Idukki kills cardamom plantation worker - thehindu.com",
+      "url": "https://www.thehindu.com/news/national/kerala/wild-elephant-attack-in-idukki-kills-cardamom-plantation-worker/article71395558.ece",
+      "image": "https://th-i.thgim.com/public/incoming/aokl4s/article71396769.ece/alternates/LANDSCAPE_1200/80759_27_8_2026_17_54_52_1_PROTESTTHALAKULAM.JPEG",
+      "description": "A cardamom plantation worker in Idukki was killed in a wild elephant attack, highlighting rising human-elephant conflicts in Kerala.",
+      "publishedAt": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": {
+        "name": "thehindu.com"
+      }
+    }
+  ]
 }
