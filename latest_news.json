@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "Cardamom price falls by Rs. 14,000 per man within a month - The Rising Nepal",
+      "url": "https://risingnepaldaily.com/news/86742",
+      "image": "https://risingnepaldaily.com/storage/media/110048/Untitled-1.jpg",
+      "description": "The price of cardamom has fallen by Rs. 14,000 per man (40 kg) within a month of trading that began with the arrival of the new harvest.  Known as the \u2018black gold\u2019 of the hills, cardamom trading began in the first week of Bhadra.   The new produce was initially traded at Rs. 96,000 per man in Phungling, the district headquarters.",
+      "publishedAt": "Sat, 19 Sep 2026 01:51:14 GMT",
+      "source": {
+        "name": "The Rising Nepal"
+      }
+    },
+    {
+      "title": "Cardamom price falls by Rs. 14,000 per man within a month - Hamro Patro",
+      "url": "https://www.hamropatro.com/en/news/detail/1974497300851773-cardamom-price-falls-by-rs-14-000-per-man-within",
+      "image": null,
+      "description": null,
+      "publishedAt": "Sat, 19 Sep 2026 01:50:10 GMT",
+      "source": {
+        "name": "Hamro Patro"
+      }
+    },
+    {
       "title": "Rats pull the plug on Rs23 crore cardamom auction in Bodi - The Times of India",
       "url": "https://timesofindia.indiatimes.com/city/madurai/rats-pull-the-plug-on-rs23-crore-cardamom-auction-in-bodi/articleshow/133847204.cms",
       "image": "https://static.toiimg.com/thumb/msid-133847202,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
@@ -15,9 +35,19 @@
       "url": "https://english.hindusthansamachar.in/Encyc/2026/9/7/Kerala-cardamom-global-spice-.php",
       "image": "https://english.hindusthansamachar.in/Encyc/2026/9/7/f538bce43746d7fa5910a72c28f6a20b_450122166_H@@IGHT_0_W@@IDTH_600.jpeg",
       "description": "Kerala cardamom strengthens its place in global spice trade",
-      "publishedAt": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "publishedAt": "Mon, 07 Sep 2026 10:02:53 GMT",
       "source": {
         "name": "Hindusthan Samachar English"
+      }
+    },
+    {
+      "title": "PIB media delegation visits South Regu to study large cardamom cultivation - Hub News",
+      "url": "https://hubnetwork.in/pib-media-delegation-visits-south-regu-to-study-large-cardamom-cultivation/",
+      "image": "https://hubnetwork.in/wp-content/uploads/2026/09/WhatsApp-Image-2026-._imresizer-2026-09-16T151155.600.jpg",
+      "description": "Pakyong, Sept 16: A media delegation from the Press Information Bureau (PIB), Himachal Pradesh, visited South Regu village in Pakyong district on Wednesday to gain first-hand insight into large cardamom cultivation and production in Sikkim. During the visit, Senior Scientist with the Spices Board, Dr Tikendra Deka, briefed the delegation on cultivation practices, production methods [\u2026]",
+      "publishedAt": "Wed, 16 Sep 2026 09:44:00 GMT",
+      "source": {
+        "name": "Hub News"
       }
     },
     {
@@ -41,13 +71,23 @@
       }
     },
     {
-      "title": "Wild elephant attack in Keralam\u2019s Idukki kills cardamom plantation worker - thehindu.com",
+      "title": "Wild elephant attack in Keralam\u2019s Idukki kills cardamom plantation worker - The Hindu",
       "url": "https://www.thehindu.com/news/national/kerala/wild-elephant-attack-in-idukki-kills-cardamom-plantation-worker/article71395558.ece",
       "image": "https://th-i.thgim.com/public/incoming/aokl4s/article71396769.ece/alternates/LANDSCAPE_1200/80759_27_8_2026_17_54_52_1_PROTESTTHALAKULAM.JPEG",
       "description": "A cardamom plantation worker in Idukki was killed in a wild elephant attack, highlighting rising human-elephant conflicts in Kerala.",
       "publishedAt": "Thu, 27 Aug 2026 07:00:00 GMT",
       "source": {
-        "name": "thehindu.com"
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Lamjung cardamom harvest hits 60 tonnes - Hamro Patro",
+      "url": "https://www.hamropatro.com/en/news/detail/1539185658425318-lamjung-cardamom-harvest-hits-60-tonnes",
+      "image": null,
+      "description": null,
+      "publishedAt": "Mon, 14 Sep 2026 00:52:36 GMT",
+      "source": {
+        "name": "Hamro Patro"
       }
     }
   ]
